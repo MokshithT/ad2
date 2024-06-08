@@ -1,0 +1,10 @@
+flask
+numpy
+
+pandas
+gunicorn
+
+Collaborative Filtering Based Recommender System
+Popularity Based Recommender System
+
+Cosine similarity
